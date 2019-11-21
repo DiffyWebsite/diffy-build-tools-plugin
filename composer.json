@@ -1,0 +1,13 @@
+{
+  "name": "diffy/diffy-terminus-build-tools-plugin",
+  "description": "An Hello, World Terminus command",
+  "type": "terminus-plugin",
+  "autoload": {
+    "psr-4": { "Diffy\\TerminusBuildTools\\": "src" }
+  },
+  "extra": {
+    "terminus": {
+      "compatible-version": "^1|^2"
+    }
+  }
+}
