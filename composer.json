@@ -3,7 +3,7 @@
   "description": "An Hello, World Terminus command",
   "type": "terminus-plugin",
   "autoload": {
-    "psr-4": { "Diffy\\TerminusBuildTools\\": "src" }
+    "psr-4": { "DiffyWebsite\\TerminusBuildTools\\": "src" }
   },
   "extra": {
     "terminus": {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Diffy\TerminusBuildTools\Commands;
+namespace DiffyWebsite\TerminusBuildTools\Commands;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\ClientException;

@@ -1,4 +1,4 @@
-# Diffy Terminus plugin
+# Diffy Terminus Build Tools plugin
 
 Configures Diffy integration for Pantheon Drops 8 pull requests workflow.
 
