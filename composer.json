@@ -1,7 +1,8 @@
 {
   "name": "diffywebsite/diffy-terminus-build-tools-plugin",
-  "description": "An Hello, World Terminus command",
+  "description": "Diffy Integration Terminus command. Used for setting up Pantheon Build Tools workflow.",
   "type": "terminus-plugin",
+  "license": "MIT",
   "autoload": {
     "psr-4": { "DiffyWebsite\\TerminusBuildTools\\": "src" }
   },
