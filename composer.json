@@ -1,5 +1,5 @@
 {
-  "name": "diffy/diffy-terminus-build-tools-plugin",
+  "name": "diffywebsite/diffy-terminus-build-tools-plugin",
   "description": "An Hello, World Terminus command",
   "type": "terminus-plugin",
   "autoload": {
